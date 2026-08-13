@@ -1,0 +1,7 @@
+# Принудительно использовать LF (Unix) для всех файлов
+* text=auto eol=lf
+
+# Исключения для бинарных файлов
+*.png binary
+*.jpg binary
+*.ico binary
