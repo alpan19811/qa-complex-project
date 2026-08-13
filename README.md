@@ -1,4 +1,4 @@
-# QA Automation Training Stand (Python + Pytest)
+# QA Automation (Python + Pytest)
 
 A hands-on integration testing stand for practicing and demonstrating
 QA Automation skills: REST API testing, database verification, mock services,
