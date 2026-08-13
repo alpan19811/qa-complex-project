@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+psycopg2-binary
+pytest
+pytest-xdist
+pytest-asyncio
+nats-py
+redis
+locust
+pydantic

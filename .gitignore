@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+*.egg
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+allure-results/
+
+# IDE (PyCharm / VSCode)
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Docker volumes (данные БД не коммитим)
+postgres_data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Локальные переменные окружения (если будут)
+.env
+.env.local
+
+# Логи
+*.log

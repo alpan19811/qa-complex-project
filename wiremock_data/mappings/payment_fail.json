@@ -1,0 +1,17 @@
+{
+  "request": {
+    "method": "POST",
+    "urlPath": "/api/payment/process"
+  },
+  "response": {
+    "status": 502,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "jsonBody": {
+      "error": "Bad Gateway",
+      "details": "Upstream payment provider is unavailable"
+    },
+    "fixedDelayMilliseconds": 1500
+  }
+}
